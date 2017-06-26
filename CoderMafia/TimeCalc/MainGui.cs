@@ -11,6 +11,11 @@ namespace TimeCalc
         public MainGui()
         {
             InitializeComponent();
+            Text = "Time Calculator";
+            foreach (Label l in Controls.OfType<Label>())
+            {
+                l.TabIndex = 0;
+            }
         }
         private List<int> inStrings = new List<int>();
         private List<int> outStrings = new List<int>();

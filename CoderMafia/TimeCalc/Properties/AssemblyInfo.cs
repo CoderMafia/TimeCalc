@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TimeCalc")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple calculator to find out how big your check is gonna be.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("CoderMafia")]
 [assembly: AssemblyProduct("TimeCalc")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("Copyright ©  2017  CoderMafia (DasCode)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
